@@ -1,0 +1,2 @@
+https://drive.google.com/file/d/11JVkSuqYe8vbVBdf_iultB3_gKBgs5P6/view?usp=sharing
+以上雲端連結為有使用到的GloVe glove.6B.200d.txt檔案，再麻煩助教將其載下跟RNN以及Transformer放入同資料夾一起執行，在執行Transformer及RNN時由於怕差異過大，也附上參數檔trans.h5、rnn.h5。再麻煩助教放在跟Transformer、RNN同資料夾一起執行。程式讀取train及test資料的相對路徑是寫在讀取news_data資料夾裡面的csv檔，謝謝助教。
